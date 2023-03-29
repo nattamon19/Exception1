@@ -13,12 +13,12 @@ public class Lab1 {
         //System.out.println(1/0);
         //int[] list = new int[5];
         //System.out.println(list[5]);
-        //String s = "abc";
-        //System.out.println(s.charAt(3));
+        String s = "abc";
+        System.out.println(s.charAt(3));
         //Object o = new object();
         //String s = (String)o;
         //Object o = null;
         //System.out.println(o.toString());
-        System.out.println(1.0/0);
+        //System.out.println(1.0/0);
     }
 }
